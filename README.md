@@ -21,7 +21,7 @@ Raw campiagn data which was given in excel was used to analyze the fund raising 
     `=year(S2)`
 - From the data sorted by year in the previous step, further pivot table was created to get successful, failed, or canceled project data for the months of the year from Row column and by filtering category to 'Theater'. 
 - A line chart is created showing number of successful, failed, or canceled projects by month sorting in decending order under the below title:
-    ![Theater Outcomes](./Theater_Outcomes_vs_Launch.png)
+    ![Theatre Outcomes](./Outcomes_Based_LaunchDate.png)
 
 ## Challenges
 
