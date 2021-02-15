@@ -15,7 +15,7 @@ To understand how different campaigns performed based on their launch dates and 
     `=year(S2)`
   - From the data sorted by year in the previous step, further pivot table was created to get successful, failed, or canceled project data for each month of the year. Pivot table was filtered on “Parent Category” and “Years.” “Parent Category” was further filtered to "Theater" from all the categories. Row labels are changed to display the year, and campaign outcomes are sorted in descending order from Row column.
   - A line chart is created showing number of successful, failed, or canceled projects by month sorting in decending order for Theater under the below title:
-    - ![Theater Outcomes Launch Date](./Theater_Outcomes_vs_Launch.png)
+    - ![Theater Outcomes Launch Date](./Theater_Outcome_vs_Launch.png)
 
 - Challenges that came during the Successful US Kickstarters and Failed US Kickstarters sheet were created. Filtering data was not done properly for outcome column and it resulted in wrong data in generated chart. To overcome this had to go through the whole module again figure out the error. While filtering columns or creating pivot chart we need to make proper selection to get the desired outcome.
 
